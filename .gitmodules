@@ -1,0 +1,3 @@
+[submodule "main/php_library"]
+	path = main/php_library
+	url = https://github.com/fadilamanosi/php_library
