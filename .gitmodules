@@ -1,3 +1,6 @@
 [submodule "main/php_library"]
 	path = main/php_library
 	url = https://github.com/fadilamanosi/php_library
+[submodule "core/node_library"]
+	path = core/node_library
+	url = https://github.com/fadilamanosi/node_library
